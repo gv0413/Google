@@ -1,7 +1,70 @@
- #logo{
-  width:114px;
+#logo{
+  margin-top: 24px;
+  margin-left: 1%;
+  width:140px;
 }
 #background{
-  width:500px;
+  margin-left: 5%;
+  width:50%;
+  height: 100%;
   float:right;
+}
+.login{
+  margin-left: 5%;
+}
+.login.greet{
+  font-size:48px;
+  margin-top:66px;
+}
+.login.greet_under{
+  margin-top: 20px;
+  font-size:24px;
+}
+.login.form{
+  margin-top: 42px;
+  font-size:20px;
+}
+p.center {
+  font-family: Nanum Gothic;
+  text-align: center;
+}
+#email{
+  height: 50px;
+  width: 40%;
+  font-size: 20px;
+  padding-left: 1%;
+  margin-bottom: 20px;
+}
+#password{
+  height: 50px;
+  width: 40%;
+  font-size: 20px;
+  padding-left: 1%;
+  margin-bottom: 20px;
+}
+#forget{
+  color: #ffc600;
+}
+#signup{
+  color: #ffc600;
+}
+.login.button{
+}
+
+.btn{
+  margin-top: 7%;
+  width: 20%;
+  height: 50px;
+  border-radius:33px;
+  font-size: 20px;
+}
+.yellow{
+  border-color: #ffc600;
+  background-color: #ffc600;
+  color: #ffffff;
+}
+.white{
+  border-color: #787b84;
+  background-color: #ffffff;
+  color: #787b84;
 }
